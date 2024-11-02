@@ -1,3 +1,22 @@
+RaAhYaMa:
+  name: Raden Ahmad Yasin Mahendra
+  title: Undergraduate CS Student in University of Indonesia
+  url: https://github.com/RaAhYaMa
+  image_url: https://avatars.githubusercontent.com/u/150542089?v=4
+  page: true
+  socials:
+    github: https://github.com/RaAhYaMa
+    x: https://x.com/yasin_compsci
+
+FrankyRay:
+  name: Franky Raymarcell Sinaga
+  title: Undergraduate CS Student in University of Indonesia
+  url: https://github.com/FrankyRay/
+  image_url: https://avatars.githubusercontent.com/u/61337607?v=4
+  page: true
+  socials:
+    github: https://github.com/FrankyRay/
+
 yangshun:
   name: Yangshun Tay
   title: Front End Engineer @ Facebook
